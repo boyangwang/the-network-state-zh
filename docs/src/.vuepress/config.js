@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  base: '/the-network-state-zh/',
+  base: '/',
 
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
