@@ -36,6 +36,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: '编者序',
+        link: '/foreword/',
+      },
+      {
         text: 'Ch 1 快速开始',
         link: '/Ch-1/',
       },
