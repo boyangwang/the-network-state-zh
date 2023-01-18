@@ -65,6 +65,13 @@ module.exports = {
       },                    
     ],
     sidebar: {
+      'foreword': [{
+        title: '编者序',
+        collapsable: false,
+        children: [
+          '',
+        ]
+      }],
       '/Ch-1/': [
         {
           title: '快速开始',
