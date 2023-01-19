@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  base: '/the-network-state-zh/',
+  base: '/',
 
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
@@ -43,6 +43,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: '编者序',
+        link: '/foreword/',
+      },
+      {
         text: 'Ch 1 快速开始',
         link: '/Ch-1/',
       },
@@ -68,6 +72,13 @@ module.exports = {
       },                    
     ],
     sidebar: {
+      'foreword': [{
+        title: '编者序',
+        collapsable: false,
+        children: [
+          '',
+        ]
+      }],
       '/Ch-1/': [
         {
           title: '快速开始',
