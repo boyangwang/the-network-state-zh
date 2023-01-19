@@ -20,7 +20,14 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:site', content: '@thenetworkstate' }],
+    ['meta', { name: 'twitter:creator', content: '@boyang0913' }],
+    ['meta', { name: 'og:url', content: 'https://www.thenetworkstate-zh.com/' }],
+    ['meta', { name: 'og:title', content: '网络国家 The Network State' }],
+    ['meta', { name: 'og:image', content: 'https://www.thenetworkstate-zh.com/thenetworkstate-logo.jpg' }],
+    ['meta', { name: 'og:description', content: '网络国家中文译本 v1.0' }],
   ],
 
   /**
