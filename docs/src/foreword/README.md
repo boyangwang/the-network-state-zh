@@ -2,6 +2,9 @@
 
 <aside>
 ✏️ by Boyang
+
+
+> There's also a [English vs Chinese side-by-side version](https://www.thenetworkstate-zh.com/Foreword-EnglishvsChinese-theNetworkStateChineseVer.pdf) for anyone who might be interested
 </aside>
 
 # 1. 即刻启程
