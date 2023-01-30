@@ -1,7 +1,7 @@
 # The Network State 网络国家梗概
 
 <aside>
-✏️ by Boyang
+✏️ by Boyang @b0yan913
 
 
 > There's also a [English vs Chinese side-by-side version](https://www.thenetworkstate-zh.com/Foreword-EnglishvsChinese-theNetworkStateChineseVer.pdf) for anyone who might be interested
