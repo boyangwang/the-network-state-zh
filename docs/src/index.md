@@ -21,7 +21,7 @@ Chinese Translation of [The Network State](https://thenetworkstate.com/)
 # 译者 & 编者:
 
 - minakokojima | https://github.com/lychees
-- Boyang | https://twitter.com/boyang0913
+- Boyang | https://twitter.com/b0yan913
 - Yan Xin | https://twitter.com/realyanxin
 - K Erica | https://twitter.com/ecrivaine_k
 
