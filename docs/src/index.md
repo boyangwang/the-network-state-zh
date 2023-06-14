@@ -24,6 +24,7 @@ Chinese Translation of [The Network State](https://thenetworkstate.com/)
 - Boyang | https://twitter.com/b0yan913
 - Yan Xin | https://twitter.com/realyanxin
 - K Erica | https://twitter.com/ecrivaine_k
+- Amber Drolma | https://twitter.com/stray_true
 
 # 参考
 - [https://www.youtube.com/watch?v=NlY8HICFiRs&t=607s&ab_channel=TheKnowledgeProject](https://www.youtube.com/watch?v=NlY8HICFiRs&t=607s&ab_channel=TheKnowledgeProject)
