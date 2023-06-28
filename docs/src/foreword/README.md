@@ -1,4 +1,4 @@
-![image](https://github.com/boyangwang/the-network-state-zh/assets/2408273/fbe78e9b-d38c-49d6-a26c-ea22a386946f)# The Network State 网络国家梗概
+# The Network State 网络国家梗概
 
 <aside>
 ✏️ by Boyang @b0yan913
